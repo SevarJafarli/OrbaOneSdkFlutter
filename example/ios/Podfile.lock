@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Flutter (1.0.0)
+  - orba_one_sdk_flutter (0.0.1):
+    - Flutter
+    - OrbaOneSdk
+  - OrbaOneSdk (0.0.13):
+    - Alamofire (~> 5.4)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - orba_one_sdk_flutter (from `.symlinks/plugins/orba_one_sdk_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - OrbaOneSdk
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  orba_one_sdk_flutter:
+    :path: ".symlinks/plugins/orba_one_sdk_flutter/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  orba_one_sdk_flutter: a23b6cdbd40e62e079570059fa1c9403aae43ecc
+  OrbaOneSdk: 5fd48de4ccedd2af3ed405887ccf1b5ca77f7600
+
+PODFILE CHECKSUM: cc1f88378b4bfcf93a6ce00d2c587857c6008d3b
+
+COCOAPODS: 1.11.2
