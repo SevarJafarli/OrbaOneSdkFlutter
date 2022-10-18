@@ -41,8 +41,9 @@ android {
 
 dependencies {
      implementation 'com.orbaone:orba-one-sdk:+'
-
+implementation 'androidx.appcompat:appcompat:1.0.0'
+implementation 'com.android.support:design:23.4.0'
+implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'com.otaliastudios:cameraview:2.7.2'
 
 }
-
